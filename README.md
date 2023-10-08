@@ -4,6 +4,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/flex-grid-layout-D5cEn-t0UU)
+- Live Site URL: [here](https://enchanting-kangaroo-f203da.netlify.app)
 
